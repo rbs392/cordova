@@ -1,0 +1,31 @@
+
+body{
+    background: #00BF60;
+}
+.app{
+    padding : 10px;
+    margin-top:30px;
+}
+header{
+    text-align: center;
+    color: #EEEEEE;
+    font-size: 24px;
+    position: fixed;
+    top: 0px;
+    z-index: 99;
+}
+img{
+    float:left;
+    max-height:30%;
+    height:auto;
+    margin: 3px;
+    border:3px solid #FFFFFF;
+}
+.transparent{
+    position: fixed;
+    height: 100%;
+    width: 100%;
+    background: #000000;
+    opacity: 0.5;
+
+}
